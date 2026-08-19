@@ -1,6 +1,6 @@
-# Proyecto S11: Análisis de Resultados de Prueba A/B
+# Proyecto S11: Analisis de visitas y ventas online (Analisis de Pruebas A/B)
 
-El objetivo de este proyecto fue analizar los resultados de una prueba A/B realizada por una tienda online anonima. Se nos proporcionaros los datos de los resultados generados por las pruebas y nuestra tarea fue verificar la validez y confiabilidad de los datos, un analisis exploratorio de los resultados obtenidos por ambos grupos (A y B) y finalmente la aplicacion de pruebas de significancia estadistica para determinar con mayor rigor las diferencia entre los grupos experimentales.
+El objetivo de este proyecto fue analizar los resultados de una prueba A/B realizada por una tienda online anónima. Se nos proporcionaros los datos de los resultados generados por las pruebas y nuestra tarea fue verificar la validez y confiabilidad de los datos, un análisis exploratorio de los resultados obtenidos por ambos grupos (A y B) y finalmente la aplicación de pruebas de significancia estadística para determinar con mayor rigor las diferencia entre los grupos experimentales.
 
 ## Habilidades Tecnológicas Utilizadas
 
@@ -23,7 +23,7 @@ El objetivo de este proyecto fue analizar los resultados de una prueba A/B reali
 - ¿Cual fue el ingreso de cada grupo por separado?
 - ¿Como fueron el volumen de pedidos por grupo?
 - ¿Cual fue la diferencia relativa entre los pedidos promedio de cada grupo?
-- ¿Cual fue la tasa de conversion diaria por grupo?
+- ¿Cual fue la tasa de conversión diaria por grupo?
 
 
 ## ¿Cual fue el ingreso de cada grupo por separado?
@@ -37,7 +37,7 @@ La grafica muestra como los ingresos de ambos grupos fueron muy similares los pr
 
 La grafica muestra un comportamiento interesante respecto al tamaño de pedidos promedio acumulados a lo largo del experimento. 
 
-- Grupo A: El grupo A comenzo arriba del grupo B, pero durante los primeros dias fue a la baja, para posteriormente comenzar a tener un repunte y superar durante algunos dias al grupo B. Despues de lo cual descendio un poco para mantener cierta estabilidad el resto de los dias del experimento.
+- Grupo A: El grupo A comenzó arriba del grupo B, pero durante los primeros dias fue a la baja, para posteriormente comenzar a tener un repunte y superar durante algunos dias al grupo B. Despues de lo cual descendio un poco para mantener cierta estabilidad el resto de los dias del experimento.
 - Grupo B: El grupo B comenzo abajo del grupo A, pero los primeros dias su comportamiento fue hacia arriba superando por 9 dias al grupo A: Luego el grupo A logro superar al grupo B durante unos dias, mientras que el grupo B se mantuvo con cierta estabilidad. El dia 19 el grupo B tuvo un brusco repunte, superando por mucho al grupo A que se mantuvo estable el resto del experimento. El grupo B mantuvo esa ventaja con cierta estabilidad el resto de los dias.
 - Nuevamente los resultados del Test A/B son favorables para el grupo B.
 
@@ -51,11 +51,11 @@ La grafica anterior nos permite ver con exactitud cual fue la diferencia porcent
 <img width="1176" height="582" alt="Screenshot_20260604142605" src="https://github.com/user-attachments/assets/513fefac-1784-490e-b383-a6feb4603943" />
 
 
-## ¿Cual fue la tasa de conversion diaria por grupo?
+## ¿Cual fue la tasa de conversión diaria por grupo?
 
-Debemos observar como la tasa de conversion entre ambos grupos se mantiene en un rango de entre poco mas de 1% hasta poco mas de 6%. El punto mas alto en la tasa de conversion lo tuvo el grupo B con un 6.23%, sin embargo tambien obtuvo el punto de conversion mas bajo con un 1.22%.
+Debemos observar como la tasa de conversión entre ambos grupos se mantiene en un rango de entre poco mas de 1% hasta poco mas de 6%. El punto mas alto en la tasa de conversion lo tuvo el grupo B con un 6.23%, sin embargo también obtuvo el punto de conversión mas bajo con un 1.22%.
 
-La tasa de conversion promedio del grupo B fue ligeramente superior que la del grupo A. No podriamos asumir con seguridad si esta diferencia es realmente significativa, aun con los resultados positivos de los analisis anteriores para el grupo B.
+La tasa de conversión promedio del grupo B fue ligeramente superior que la del grupo A. No podríamos asumir con seguridad si esta diferencia es realmente significativa, aun con los resultados positivos de los analisis anteriores para el grupo B.
 
 <img width="1266" height="539" alt="Screenshot_20260604142721" src="https://github.com/user-attachments/assets/07d44747-48f8-4337-bff6-4f65effc01ac" />
 
