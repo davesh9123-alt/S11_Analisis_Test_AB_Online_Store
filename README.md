@@ -1,4 +1,4 @@
-# Analisis de Resultados de Prueba A/B
+# Proyecto S11: Análisis de Resultados de Prueba A/B
 
 El objetivo de este proyecto fue analizar los resultados de una prueba A/B realizada por una tienda online anonima. Se nos proporcionaros los datos de los resultados generados por las pruebas y nuestra tarea fue verificar la validez y confiabilidad de los datos, un analisis exploratorio de los resultados obtenidos por ambos grupos (A y B) y finalmente la aplicacion de pruebas de significancia estadistica para determinar con mayor rigor las diferencia entre los grupos experimentales.
 
